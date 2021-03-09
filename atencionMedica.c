@@ -40,6 +40,14 @@ int main()
     printf("Ingrese valor a cancelar: ");
     scanf("%f",&datos.costo);
 
+    printf("El paciente %s \n",mediPacient1.nombrep);
+    printf("Esta siendo atendido por el medico %s \n",mediPacient1.nombrem);
+    printf("En la especilidad de %s \n",mediPacient1.especialidad);
+    printf("Por el tratamiento de %s \n",mediPacient1.tratamiento);
+    printf("En la clinica %s \n",clinica1.nombrec);
+    printf("Ubicada en %s \n",clinica1.direccion);
+    printf("Valor a cancelar %f \n",datos.costo);
+
     getch();
     return;
 }
