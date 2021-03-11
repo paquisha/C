@@ -1,0 +1,15 @@
+Nombre: Andres
+ Doctor: Aime
+Diagnostico: fractura
+Tratamiento: inmovilizacion
+
+Nombre: iveth
+ Doctor: aime
+Diagnostico: torcedura
+Tratamiento: yeso
+
+Nombre: mari
+ Doctor: ivetn
+Diagnostico: dolor de vagina
+Tratamiento: pomadas
+
